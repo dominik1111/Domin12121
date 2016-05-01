@@ -1,5 +1,9 @@
 Plik1
 qwda
 eaw
+<<<<<<< HEAD
 Zmiana
 ccoad
+=======
+greagerrr
+>>>>>>> Galazka
